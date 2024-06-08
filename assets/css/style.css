@@ -32,11 +32,11 @@ body {
     font-size: 20px;
 }
 
-.header div ul {
+.header div ul {            /* Added nav tag */
     list-style-type: none;
 }
 
-.header div ul li {
+.header div ul li {         /* Added nav tag */
     display: inline-block;
     margin-left: 25px;
 }
