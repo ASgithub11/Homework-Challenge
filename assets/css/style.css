@@ -134,6 +134,7 @@ p {
     display: block;
     margin: 10px auto;
     max-width: 150px;
+    max-height: 150px;              /* Added height to the image */
 }
 
 .search-engine-optimization {
