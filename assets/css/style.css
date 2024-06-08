@@ -192,10 +192,10 @@ p {
 }
 
 .footer {
-    padding: 30px;
+    padding: 30px;                  /* Padding for the footer element */
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    text-align: center;
+    text-align: center;             /* Text in the footer element is centered */
 }
 
 .footer h2 {
