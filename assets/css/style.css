@@ -162,11 +162,11 @@ p {
 }
 
 .search-engine-optimization img {
-    max-height: 200px;
+    max-height: 200px;                  /* Image height */
 }
 
 .online-reputation-management img {
-    max-height: 200px;
+    max-height: 200px;                  
 }
 
 .social-media-marketing img {
