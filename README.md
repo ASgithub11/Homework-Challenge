@@ -2,7 +2,7 @@
 
 ## Description
 
-Horiseon, a modern solution to online business and social media problems. With so many websites on the internet, it can be challenging for a potential customer to find your business online resulting in lower sales and less profit for your business. It may seem unfair but search engines are not very kind to new online businesses. With our Search Engine Optimization (SEO) tool, you can increase your online visibility and find the right customers for your business. We all know you can't please everyone, every now and then you will get a customer who might want to leave a negative feedback about your business impacting its reputation which can also effect your sales and income. With our Online Reputation Management tool, you can control over what potential customers see when they search for your business. These days social media plays a significant role in marketing of products and services. With our Social Media Marketing tool, you can determine which platforms are suited to your brand, using analytics to find the right markets and increase your lead generation.
+Horiseon, a modern solution to online business and social media problems. With so many websites on the internet, it can be challenging for a potential customer to find your business online resulting in lower sales and less profit for your business. It may seem unfair but search engines are not very kind to new online businesses. With our Search Engine Optimization (SEO) tool, you can increase your online visibility and find the right customers for your business. We all know you can't please everyone, every now and then you will get a customer who might want to leave a negative feedback about your business which could harm its reputation, somthing that takes years to build, ultimately affecting its sales and income. With our Online Reputation Management tool, you can control over what potential customers see when they search for your business. These days social media plays a significant role in marketing of products and services. With our Social Media Marketing tool, you can determine which platforms are suited to your brand, using analytics to find the right markets and increase your lead generation.
 
 ## Usage
 
@@ -12,11 +12,11 @@ You can use this tool to determine where your website be advertise and in what m
 
 ### Online Reputation Manangement
 
-This tool provides the ability to control what your potential customer see about your business what they search for it. 
+This tool provides the ability to control what your potential customer see about your business when they search for it. 
 
 ### Social Media Marketing
 
-Use social media marketing to increase your web presense on relevant social media platforms and online market places.
+Use social media marketing to increase your web presense on trending social media platforms and online market places.
 
 ## Author Info
 
